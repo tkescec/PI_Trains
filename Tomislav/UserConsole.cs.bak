@@ -36,7 +36,6 @@ namespace Tomislav
 
             smallTrain.AddVehicle(new SmallVehicle());
             bigTrain.AddVehicle(new BigVehicle());
-			
         }
     }
 }
